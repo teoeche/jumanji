@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "teo",
+    "apellido": "echeverria",
+    "email": "teo-bramd@hotmail.com",
+    "telefono": "0980501643",
+    "ciudad": "cuenca",
+    "direccion": "sauces 5"
+  },
+  {
+    "id": 2,
+    "nombre": "juanito",
+    "apellido": "alimaña",
+    "email": "saca_el_cuchillo@hotmail.com",
+    "telefono": "042820775",
+    "ciudad": "cuenca",
+    "direccion": "petrillo"
+  },
+  {
+    "id": 3,
+    "nombre": "pepe",
+    "apellido": "juan",
+    "email": "juan@hotmail.com",
+    "telefono": "042820775",
+    "ciudad": "sauces 5",
+    "direccion": "metroplos"
+  },
+  {
+    "id": 4,
+    "nombre": "teo",
+    "apellido": "panana",
+    "email": "teo-btfd@hotmail.com",
+    "telefono": "04745724",
+    "ciudad": "cunca",
+    "direccion": "sauces"
+  },
+  {
+    "id": 5,
+    "nombre": "pepe",
+    "apellido": "el grillo",
+    "email": "notelorire@hotmail.com",
+    "telefono": "036457234",
+    "ciudad": "ambato",
+    "direccion": "metro"
+  }
+]
